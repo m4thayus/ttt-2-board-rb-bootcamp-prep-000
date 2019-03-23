@@ -1,3 +1,5 @@
 board = []
 
-9.times do 
+9.times do
+  board << " "
+end
